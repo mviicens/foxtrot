@@ -72,7 +72,3 @@ Descarga el archivo empaquetado `foxtrot.plugin` e instálalo desde la propia in
 ## Notas de seguridad
 
 `fox-back`, `fox-qa` y `fox-optimize` operan siempre en modo defensivo: implementan, auditan y mejoran protecciones de seguridad (OWASP, validación de inputs, cifrado), pero no generan código ofensivo, exploits ni backdoors bajo ninguna circunstancia.
-
-## Licencia
-
-MIT — ver [LICENSE](./LICENSE).
