@@ -1,0 +1,13 @@
+{
+  "name": "foxtrot",
+  "owner": {
+    "name": "mviicens"
+  },
+  "plugins": [
+    {
+      "name": "foxtrot",
+      "source": "./",
+      "description": "Equipo de agentes de IA especializados en desarrollo web full-stack (Fox-Lead, Fox-Design, Fox-Front, Fox-Back, Fox-QA, Fox-Optimize) bajo un protocolo único."
+    }
+  ]
+}
