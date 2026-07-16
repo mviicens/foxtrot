@@ -2,7 +2,7 @@
 
 Equipo de agentes de IA especializados en **desarrollo web** full-stack, orquestados bajo un protocolo único con estándares de código y formato de salida consistentes.
 
-**Autor:** marcviicens
+**Autor:** mviicens
 
 > **Enfoque:** Foxtrot está orientado exclusivamente a proyectos de **desarrollo web** (aplicaciones y sitios web). Su stack (Next.js, React, Tailwind, Node.js/Go, PostgreSQL, etc.) y sus roles están pensados para construir, auditar y optimizar software para la web, no para otros dominios (móvil nativo, escritorio, embebidos, data science, etc.).
 
