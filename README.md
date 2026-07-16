@@ -52,7 +52,7 @@ Hay dos formas de instalar Foxtrot según el cliente que uses. En ambos casos se
 Claude Code lee la estructura de carpetas del repo directamente (busca `.claude-plugin/plugin.json`). No uses el archivo `.plugin` aquí. La sintaxis general es:
 
 ```bash
-/plugin marketplace add marcviicens/foxtrot
+/plugin marketplace add mviicens/foxtrot
 /plugin install foxtrot@foxtrot
 ```
 
