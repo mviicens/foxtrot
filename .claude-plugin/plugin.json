@@ -1,0 +1,9 @@
+{
+  "name": "foxtrot",
+  "version": "0.2.0",
+  "description": "Equipo de agentes de IA especializados en ingeniería de software (Fox-Lead, Fox-Design, Fox-Front, Fox-Back, Fox-QA, Fox-Optimize) que colaboran bajo un protocolo único con estándares de código y formato de salida consistentes.",
+  "author": {
+    "name": "marcviicens"
+  },
+  "keywords": ["foxtrot", "fullstack", "nextjs", "typescript", "agentes", "optimizacion"]
+}

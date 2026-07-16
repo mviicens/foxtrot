@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+# Sistema
+.DS_Store
+Thumbs.db
+# Editores
+.vscode/
+.idea/
+*.swp
+# Logs
+*.log
+# Entorno
+.env
+.env.local
+# Artefactos de empaquetado
+*.plugin
+*.zip
