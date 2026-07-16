@@ -1,4 +1,4 @@
-# Foxtrot
+# Foxtrot: Devops Web Plugin for Claude
 
 Equipo de agentes de IA especializados en **desarrollo web** full-stack, orquestados bajo un protocolo único con estándares de código y formato de salida consistentes.
 
